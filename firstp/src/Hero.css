@@ -1,0 +1,23 @@
+.hero{
+    margin: 0 auto;
+    max-width: 1280;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: calc(100vh-72px);
+}
+.hero h1{
+    font-weight: 800;
+    line-height: 102px;
+    font-size: 108px;
+    /* i ahve to check what is line height again */
+}
+.hero p{
+    font-weight: 600;
+    /* line-height: 102px; */
+    /* font-size: 108px; */
+}
+.hero-bt{
+    display: flex;
+    gap:40px;
+}

@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1280px;
+    height: 72px;
+
+}
+ nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+gap: 24px;
+
+align-items: center;
+}
+button{
+    all: unset;
+    padding: 2px 20px;
+    background-color: orange;
+    font-size: large;
+    border-radius: 1.2rem;
+    height: 32px;
+
+
+}
